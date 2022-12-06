@@ -1,6 +1,7 @@
 <!-- Meu Banner -->
-<img height="350px" width="800px" src="https://i.imgur.com/FVGeoNr.gif">
+<img margin-right="50px" height="350px" width="1050px" src="https://i.imgur.com/FVGeoNr.gif">
 <!-- <img height="350px" width="800px" src="https://i.imgur.com/olTyjIN.gif"> -->
+<!--<img margin-right="50px" height="350px" width="1050px" src="https://i.imgur.com/FVGeoNr.gif">-->
 
 <!-- Sobre Mim -->
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="38px"></img> Sobre Mim
@@ -16,8 +17,8 @@
 
 <!-- Estatísticas Gerais e de Programação -->
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=AhMoutinho&show_icons=true&count_private=true&theme=dark" width="350"></a>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhMoutinho&layout=compact&langs_count=7&theme=dark" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhMoutinho&show_icons=true&count_private=true&theme=dark" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhMoutinho&layout=compact&langs_count=7&theme=dark" width="350"/>
 </p>
 
 <!-- Minhas Skills -->
