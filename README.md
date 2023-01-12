@@ -17,8 +17,8 @@
 
 <!-- Estatísticas Gerais e de Programação -->
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=AhMoutinho&show_icons=true&count_private=true&theme=dark" width="350">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhMoutinho&layout=compact&langs_count=7&theme=dark" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AMoutinho&show_icons=true&count_private=true&theme=dark" width="350">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMoutinho&layout=compact&langs_count=7&theme=dark" width="350"/>
 </p>
 
 <!-- Minhas Skills -->
