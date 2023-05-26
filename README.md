@@ -3,9 +3,6 @@
 <!-- <img height="350px" width="800px" src="https://i.imgur.com/olTyjIN.gif"> -->
 <!--<img margin-right="50px" height="350px" width="1050px" src="https://i.imgur.com/FVGeoNr.gif">-->
 
-<!-- Cobrinha Contribuições -->
-![Snake animation](https://github.com/AMoutinho/AMoutinho/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Sobre Mim -->
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="38px"></img> Sobre Mim
 
