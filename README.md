@@ -15,14 +15,11 @@
 - :memo: Pesquisa Científica abordando **Metodologia no Desenvolvimento Web com Suporte a Documentação** no ano de 2017
 - :memo: Pesquisa Científica abordando **Desenvolvimento Web: Plataforma Microsoft** no ano de 2018
 
-<!-- Cobrinha -->
+<!-- Cobrinha das Contribuições -->
 
 ![Snake animation](https://github.com/AMoutinho/AMoutinho/blob/output/github-contribution-grid-snake.svg)
 
-
 <!-- Estatísticas Gerais e de Programação (EM MANUTENÇÃO) -->
-
-
 
 <!-- Minhas Skills -->
 
