@@ -17,7 +17,7 @@
 
 <!-- Cobrinha das Contribuições -->
 
-![Snake animation](https://github.com/AMoutinho/AMoutinho/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/AMoutinho/AMoutinho/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- Estatísticas Gerais e de Programação (EM MANUTENÇÃO) -->
 
