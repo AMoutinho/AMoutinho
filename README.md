@@ -88,7 +88,8 @@
  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
  <img src="https://img.shields.io/badge/NVIDIA-GTX970-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />  
- <img src="https://img.shields.io/badge/AMD-FX_8350-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Intel%20Core_i5_10400F-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> 
+<!-- <img src="https://img.shields.io/badge/AMD-FX_8350-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> -->
  <p> 
   
 <!-- Meu Contato -->
