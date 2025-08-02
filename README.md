@@ -1,5 +1,7 @@
 <!-- Meu Banner -->
-<img margin-right="50px" height="350px" width="1050px" src="https://i.imgur.com/FVGeoNr.gif">
+<!-- <img margin-right="50px" height="350px" width="1050px" src="https://i.imgur.com/FVGeoNr.gif"> -->
+<img height="400px" width="1032px" src="https://i.postimg.cc/26bzKQvd/Final02.gif">
+
 <!-- <img height="350px" width="800px" src="https://i.imgur.com/olTyjIN.gif"> -->
 <!--<img margin-right="50px" height="350px" width="1050px" src="https://i.imgur.com/FVGeoNr.gif">-->
 
