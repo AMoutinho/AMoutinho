@@ -91,12 +91,12 @@
  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
  <img src="https://img.shields.io/badge/NVIDIA-GTX970-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />  
  <img src="https://img.shields.io/badge/Intel%20Core_i5_10400F-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> 
-<!-- <img src="https://img.shields.io/badge/AMD-FX_8350-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> -->
+ <!-- <img src="https://img.shields.io/badge/AMD-FX_8350-ED1C24?style=for-the-badge&logo=amd&logoColor=white" /> -->
  <p> 
   
 <!-- Meu Contato -->
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> Meus Contatos
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:albmoutinho@hotmail.com" >
     <img align="center" alt="André Moutinho | Hotmail" width="26px" src="https://img.icons8.com/color/48/000000/ms-outlook.png"/>
   </a> &nbsp;&nbsp;
@@ -110,7 +110,7 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://www.facebook.com/andre.moutinho.5" target="_blank">
-      <img align="center" alt="André Moutinho | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+      <img align="center" alt="André Moutinho | Facebook" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />     
   </a> &nbsp;&nbsp;
   
   <a href="https://www.instagram.com/moutinhooandre/" target="_blank">
@@ -118,9 +118,19 @@
   </a> &nbsp;&nbsp;
   
   <a href="https://github.com/AMoutinho" target="_blank">
-    <img align="center" alt="André Moutinho | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+    <img align="center" alt="André Moutinho | GitHub" width="26px" src="https://skillicons.dev/icons?i=github" />
   </a> &nbsp;&nbsp;
 <p> 
+-->
+
+<p align="center">
+<a href="mailto:albmoutinho@hotmail.com"><img width="26" src="https://img.icons8.com/color/48/ms-outlook.png"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:albmoutinhoo@gmail.com"><img width="26" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/moutinhoandre/"><img width="26" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Linkedin.svg"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/andre.moutinho.5"><img width="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/moutinhooandre/"><img width="26" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Instagram.svg"></a>&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/AMoutinho"><img width="26" src="https://skillicons.dev/icons?i=github"></a>
+</p>
 
 <!--
 **AhMoutinho/AhMoutinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
